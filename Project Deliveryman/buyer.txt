@@ -1,0 +1,4 @@
+Monika|monika@gmail.com|0182345548373|Student
+Monika|monika@gmail.com|0182345548373|Student
+konika|konika@gmail.com|01987654333|Student|
+admin|batas@gmail.com|098765432|Student|Male
